@@ -1,0 +1,11 @@
+C:\Users\Gonca\source\repos\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\netcoreapp2.1\SayiTahminOyunu.deps.json
+C:\Users\Gonca\source\repos\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\netcoreapp2.1\SayiTahminOyunu.runtimeconfig.json
+C:\Users\Gonca\source\repos\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\netcoreapp2.1\SayiTahminOyunu.runtimeconfig.dev.json
+C:\Users\Gonca\source\repos\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\netcoreapp2.1\SayiTahminOyunu.dll
+C:\Users\Gonca\source\repos\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\netcoreapp2.1\SayiTahminOyunu.pdb
+C:\Users\Gonca\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\netcoreapp2.1\SayiTahminOyunu.csprojAssemblyReference.cache
+C:\Users\Gonca\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\netcoreapp2.1\SayiTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\netcoreapp2.1\SayiTahminOyunu.AssemblyInfoInputs.cache
+C:\Users\Gonca\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\netcoreapp2.1\SayiTahminOyunu.AssemblyInfo.cs
+C:\Users\Gonca\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\netcoreapp2.1\SayiTahminOyunu.dll
+C:\Users\Gonca\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\netcoreapp2.1\SayiTahminOyunu.pdb

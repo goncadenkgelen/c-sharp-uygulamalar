@@ -1,0 +1,11 @@
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Mutlak\bin\Debug\netcoreapp2.1\Mutlak.deps.json
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Mutlak\bin\Debug\netcoreapp2.1\Mutlak.runtimeconfig.json
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Mutlak\bin\Debug\netcoreapp2.1\Mutlak.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Mutlak\bin\Debug\netcoreapp2.1\Mutlak.dll
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Mutlak\bin\Debug\netcoreapp2.1\Mutlak.pdb
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Mutlak\obj\Debug\netcoreapp2.1\Mutlak.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Mutlak\obj\Debug\netcoreapp2.1\Mutlak.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Mutlak\obj\Debug\netcoreapp2.1\Mutlak.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Mutlak\obj\Debug\netcoreapp2.1\Mutlak.dll
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Mutlak\obj\Debug\netcoreapp2.1\Mutlak.pdb
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Mutlak\obj\Debug\netcoreapp2.1\Mutlak.csprojAssemblyReference.cache

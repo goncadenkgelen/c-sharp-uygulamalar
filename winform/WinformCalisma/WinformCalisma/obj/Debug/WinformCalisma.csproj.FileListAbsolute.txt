@@ -1,0 +1,10 @@
+C:\Users\Gonca\source\repos\WinformCalisma\WinformCalisma\bin\Debug\WinformCalisma.exe.config
+C:\Users\Gonca\source\repos\WinformCalisma\WinformCalisma\bin\Debug\WinformCalisma.exe
+C:\Users\Gonca\source\repos\WinformCalisma\WinformCalisma\bin\Debug\WinformCalisma.pdb
+C:\Users\Gonca\source\repos\WinformCalisma\WinformCalisma\obj\Debug\WinformCalisma.csprojAssemblyReference.cache
+C:\Users\Gonca\source\repos\WinformCalisma\WinformCalisma\obj\Debug\WinformCalisma.Form1.resources
+C:\Users\Gonca\source\repos\WinformCalisma\WinformCalisma\obj\Debug\WinformCalisma.Properties.Resources.resources
+C:\Users\Gonca\source\repos\WinformCalisma\WinformCalisma\obj\Debug\WinformCalisma.csproj.GenerateResource.cache
+C:\Users\Gonca\source\repos\WinformCalisma\WinformCalisma\obj\Debug\WinformCalisma.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\source\repos\WinformCalisma\WinformCalisma\obj\Debug\WinformCalisma.exe
+C:\Users\Gonca\source\repos\WinformCalisma\WinformCalisma\obj\Debug\WinformCalisma.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\MathMethods\bin\Debug\netcoreapp2.1\UsAlma.deps.json
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\MathMethods\bin\Debug\netcoreapp2.1\UsAlma.runtimeconfig.json
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\MathMethods\bin\Debug\netcoreapp2.1\UsAlma.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\MathMethods\bin\Debug\netcoreapp2.1\UsAlma.dll
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\MathMethods\bin\Debug\netcoreapp2.1\UsAlma.pdb
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\MathMethods\obj\Debug\netcoreapp2.1\UsAlma.csprojAssemblyReference.cache
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\MathMethods\obj\Debug\netcoreapp2.1\UsAlma.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\MathMethods\obj\Debug\netcoreapp2.1\UsAlma.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\MathMethods\obj\Debug\netcoreapp2.1\UsAlma.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\MathMethods\obj\Debug\netcoreapp2.1\UsAlma.dll
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\MathMethods\obj\Debug\netcoreapp2.1\UsAlma.pdb

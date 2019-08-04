@@ -1,0 +1,11 @@
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Yuvarlama\bin\Debug\netcoreapp2.1\Yuvarlama.deps.json
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Yuvarlama\bin\Debug\netcoreapp2.1\Yuvarlama.runtimeconfig.json
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Yuvarlama\bin\Debug\netcoreapp2.1\Yuvarlama.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Yuvarlama\bin\Debug\netcoreapp2.1\Yuvarlama.dll
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Yuvarlama\bin\Debug\netcoreapp2.1\Yuvarlama.pdb
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Yuvarlama\obj\Debug\netcoreapp2.1\Yuvarlama.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Yuvarlama\obj\Debug\netcoreapp2.1\Yuvarlama.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Yuvarlama\obj\Debug\netcoreapp2.1\Yuvarlama.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Yuvarlama\obj\Debug\netcoreapp2.1\Yuvarlama.dll
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Yuvarlama\obj\Debug\netcoreapp2.1\Yuvarlama.pdb
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Yuvarlama\obj\Debug\netcoreapp2.1\Yuvarlama.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Karekok\bin\Debug\netcoreapp2.1\Karekok.deps.json
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Karekok\bin\Debug\netcoreapp2.1\Karekok.runtimeconfig.json
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Karekok\bin\Debug\netcoreapp2.1\Karekok.runtimeconfig.dev.json
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Karekok\bin\Debug\netcoreapp2.1\Karekok.dll
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Karekok\bin\Debug\netcoreapp2.1\Karekok.pdb
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Karekok\obj\Debug\netcoreapp2.1\Karekok.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Karekok\obj\Debug\netcoreapp2.1\Karekok.AssemblyInfoInputs.cache
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Karekok\obj\Debug\netcoreapp2.1\Karekok.AssemblyInfo.cs
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Karekok\obj\Debug\netcoreapp2.1\Karekok.dll
+C:\Users\Gonca\Desktop\c_sharp_homeworks\examples\MathMethods\Karekok\obj\Debug\netcoreapp2.1\Karekok.pdb

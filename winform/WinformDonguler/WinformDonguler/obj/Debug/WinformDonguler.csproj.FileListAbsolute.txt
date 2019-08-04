@@ -1,0 +1,10 @@
+C:\Users\Gonca\source\repos\WinformDonguler\WinformDonguler\bin\Debug\WinformDonguler.exe.config
+C:\Users\Gonca\source\repos\WinformDonguler\WinformDonguler\bin\Debug\WinformDonguler.exe
+C:\Users\Gonca\source\repos\WinformDonguler\WinformDonguler\bin\Debug\WinformDonguler.pdb
+C:\Users\Gonca\source\repos\WinformDonguler\WinformDonguler\obj\Debug\WinformDonguler.csprojAssemblyReference.cache
+C:\Users\Gonca\source\repos\WinformDonguler\WinformDonguler\obj\Debug\WinformDonguler.Form1.resources
+C:\Users\Gonca\source\repos\WinformDonguler\WinformDonguler\obj\Debug\WinformDonguler.Properties.Resources.resources
+C:\Users\Gonca\source\repos\WinformDonguler\WinformDonguler\obj\Debug\WinformDonguler.csproj.GenerateResource.cache
+C:\Users\Gonca\source\repos\WinformDonguler\WinformDonguler\obj\Debug\WinformDonguler.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\source\repos\WinformDonguler\WinformDonguler\obj\Debug\WinformDonguler.exe
+C:\Users\Gonca\source\repos\WinformDonguler\WinformDonguler\obj\Debug\WinformDonguler.pdb
