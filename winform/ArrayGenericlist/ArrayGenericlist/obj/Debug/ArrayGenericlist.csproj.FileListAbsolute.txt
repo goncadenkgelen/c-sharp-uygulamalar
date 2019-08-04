@@ -1,0 +1,10 @@
+C:\Users\Gonca\Desktop\projects\c_sharp\winform\ArrayGenericlist\ArrayGenericlist\bin\Debug\ArrayGenericlist.exe.config
+C:\Users\Gonca\Desktop\projects\c_sharp\winform\ArrayGenericlist\ArrayGenericlist\bin\Debug\ArrayGenericlist.exe
+C:\Users\Gonca\Desktop\projects\c_sharp\winform\ArrayGenericlist\ArrayGenericlist\bin\Debug\ArrayGenericlist.pdb
+C:\Users\Gonca\Desktop\projects\c_sharp\winform\ArrayGenericlist\ArrayGenericlist\obj\Debug\ArrayGenericlist.csprojAssemblyReference.cache
+C:\Users\Gonca\Desktop\projects\c_sharp\winform\ArrayGenericlist\ArrayGenericlist\obj\Debug\ArrayGenericlist.Form1.resources
+C:\Users\Gonca\Desktop\projects\c_sharp\winform\ArrayGenericlist\ArrayGenericlist\obj\Debug\ArrayGenericlist.Properties.Resources.resources
+C:\Users\Gonca\Desktop\projects\c_sharp\winform\ArrayGenericlist\ArrayGenericlist\obj\Debug\ArrayGenericlist.csproj.GenerateResource.cache
+C:\Users\Gonca\Desktop\projects\c_sharp\winform\ArrayGenericlist\ArrayGenericlist\obj\Debug\ArrayGenericlist.csproj.CoreCompileInputs.cache
+C:\Users\Gonca\Desktop\projects\c_sharp\winform\ArrayGenericlist\ArrayGenericlist\obj\Debug\ArrayGenericlist.exe
+C:\Users\Gonca\Desktop\projects\c_sharp\winform\ArrayGenericlist\ArrayGenericlist\obj\Debug\ArrayGenericlist.pdb
