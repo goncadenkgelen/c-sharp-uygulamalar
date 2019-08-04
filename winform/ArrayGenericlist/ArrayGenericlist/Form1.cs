@@ -74,24 +74,6 @@ namespace ArrayGenericlist
 
                 }
             }
-            //List<string> seciliIsimlerList = new List<string>();
-            //List<string> seciliOlmayanIsimlerList = new List<string>();
-
-            //for (int i = 0; i < listBox1.Items.Count - 1; i++)
-            //{
-            //    if (listBox1.SelectedItems.Contains(listBox1.Items[i]))
-            //    {
-            //        seciliIsimlerList.Add(listBox1.Items[i].ToString());
-            //        listBox2.Items.Add(seciliIsimlerList[i]);
-            //    }
-            //    else
-            //    {
-            //        seciliOlmayanIsimlerList.Add(listBox1.Items[i].ToString());
-            //        listBox3.Items.Add(seciliOlmayanIsimlerList[i]);
-
-
-            //    }
-            //}
         }
         private void GroupBox1_Enter(object sender, EventArgs e)
         {
