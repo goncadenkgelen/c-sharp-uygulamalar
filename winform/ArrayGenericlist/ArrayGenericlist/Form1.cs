@@ -36,11 +36,7 @@ namespace ArrayGenericlist
             string[] seciliIsimler = new string[listBox1.SelectedItems.Count];
             string[] seciliOlmayanIsimler = new string[listBox1.Items.Count];
 
-            int secili = listBox1.SelectedItems.Count;
-            int seciliOlmayan = ((listBox1.Items.Count) - (listBox1.SelectedItems.Count));
-            
-
-            while (k <= listBox1.Items.Count-1  )
+            while (k <= listBox1.Items.Count - 1)
             {
                 if (listBox1.SelectedItems.Contains(listBox1.Items[k]))
                 {
@@ -48,7 +44,7 @@ namespace ArrayGenericlist
                     listBox2.Items.Add(seciliIsimler[i]);
                     i++;
                 }
-                else 
+                else
                 {
                     seciliOlmayanIsimler[j] = listBox1.Items[k].ToString();
                     listBox3.Items.Add(seciliOlmayanIsimler[j]);
@@ -64,6 +60,39 @@ namespace ArrayGenericlist
 
         }
 
+        private void Button3_Click(object sender, EventArgs e)
+        {
+            for (int i = 0; i <= listBox1.Items.Count - 1; i++)
+            {
+                if (listBox1.SelectedItems.Contains(listBox1.Items[i]))
+                {
+                    listBox2.Items.Add(listBox1.Items[i]);
+                }
+                else
+                {
+                    listBox3.Items.Add(listBox1.Items[i]);
+
+                }
+            }
+            //List<string> seciliIsimlerList = new List<string>();
+            //List<string> seciliOlmayanIsimlerList = new List<string>();
+
+            //for (int i = 0; i < listBox1.Items.Count - 1; i++)
+            //{
+            //    if (listBox1.SelectedItems.Contains(listBox1.Items[i]))
+            //    {
+            //        seciliIsimlerList.Add(listBox1.Items[i].ToString());
+            //        listBox2.Items.Add(seciliIsimlerList[i]);
+            //    }
+            //    else
+            //    {
+            //        seciliOlmayanIsimlerList.Add(listBox1.Items[i].ToString());
+            //        listBox3.Items.Add(seciliOlmayanIsimlerList[i]);
+
+
+            //    }
+            //}
+        }
         private void GroupBox1_Enter(object sender, EventArgs e)
         {
 
