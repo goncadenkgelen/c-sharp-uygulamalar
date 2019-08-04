@@ -12,8 +12,7 @@ namespace ArrayGenericlist
 {
     public partial class Form1 : Form
     {
-        int i, j;
-        int k = 0;
+        
         public Form1()
         {
             InitializeComponent();
@@ -27,12 +26,20 @@ namespace ArrayGenericlist
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            label3.Visible = false;
+            label4.Visible = false;
+
             listBox1.SelectionMode = SelectionMode.MultiSimple;
             textBox1.Focus();
         }
 
         private void Button2_Click(object sender, EventArgs e)
         {
+            int k = 0;
+            int i = 0, j = 0;
+            listBox2.Items.Clear();
+            listBox3.Items.Clear();
+
             string[] seciliIsimler = new string[listBox1.SelectedItems.Count];
             string[] seciliOlmayanIsimler = new string[listBox1.Items.Count];
 
@@ -50,9 +57,15 @@ namespace ArrayGenericlist
                     listBox3.Items.Add(seciliOlmayanIsimler[j]);
                     j++;
                 }
-
                 k++;
             }
+
+            label3.Visible = true;
+            label4.Visible = true;
+
+            label3.Text = listBox2.Items.Count.ToString();
+            label4.Text = listBox3.Items.Count.ToString();
+
         }
 
         private void GroupBox2_Enter(object sender, EventArgs e)
@@ -62,6 +75,9 @@ namespace ArrayGenericlist
 
         private void Button3_Click(object sender, EventArgs e)
         {
+            listBox2.Items.Clear();
+            listBox3.Items.Clear();
+
             for (int i = 0; i <= listBox1.Items.Count - 1; i++)
             {
                 if (listBox1.SelectedItems.Contains(listBox1.Items[i]))
@@ -71,9 +87,14 @@ namespace ArrayGenericlist
                 else
                 {
                     listBox3.Items.Add(listBox1.Items[i]);
-
                 }
             }
+
+            label3.Visible = true;
+            label4.Visible = true;
+
+            label3.Text = listBox2.Items.Count.ToString();
+            label4.Text = listBox3.Items.Count.ToString();
         }
         private void GroupBox1_Enter(object sender, EventArgs e)
         {
